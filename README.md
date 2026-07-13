@@ -1,0 +1,2 @@
+# Employee-Demographics-Workforce-Analytics-Dashboard
+An interactive HR analytics dashboard designed to provide a consolidated, real-time view of workforce composition, compensation, and hiring trends. It enables HR stakeholders to quickly assess organizational health across key metrics including headcount, gender distribution, age demographics, qualification-to-salary, and cumulative hiring growth.
