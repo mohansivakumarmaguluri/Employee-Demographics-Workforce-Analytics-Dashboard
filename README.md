@@ -96,6 +96,7 @@ Displays the cumulative number of employees hired over time, highlighting the or
 
 ##  Project Structure
 
+```text
 HR-Analytics-Dashboard/
 │
 ├── Dashboard.pbix
@@ -103,6 +104,7 @@ HR-Analytics-Dashboard/
 ├── README.md
 └── images/
     └── dashboard.png
+```
 
 ---
 
